@@ -1,4 +1,4 @@
-:exclamation: *NOTE*: This is an example from the [INTERSECT training "Packaging"](https://intersect-training.org/packaging/) course
+:exclamation: *NOTE*: This is adapted from the [INTERSECT training "Packaging"](https://intersect-training.org/packaging/) course
 
 # Package
 
